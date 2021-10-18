@@ -50,6 +50,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speedEnemy: 5
+  liveEnemy: 3
 --- !u!1 &4411952929301612477
 GameObject:
   m_ObjectHideFlags: 0

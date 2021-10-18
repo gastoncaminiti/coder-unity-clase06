@@ -505,7 +505,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lifePlayer: 3
   namePlayer: Mr. Blue
-  speedPlayer: 100
+  speedPlayer: 20
   swordPlayer: {fileID: 739136892}
   initPosition: {x: 8, y: 1, z: 0}
 --- !u!1 &739136892
@@ -824,7 +824,7 @@ MonoBehaviour:
   - {fileID: 4449318815860771608, guid: 8782b65d38e996745a42fc9232ae2c7e, type: 3}
   - {fileID: 6851121995934249654, guid: 966307fd5b071e84f9d8821370df8fbd, type: 3}
   startDelay: 3
-  spawnInterval: 0.5
+  spawnInterval: 3
 --- !u!1 &1717120342
 GameObject:
   m_ObjectHideFlags: 0
@@ -859,7 +859,7 @@ MonoBehaviour:
   - {fileID: 4449318815860771608, guid: 8782b65d38e996745a42fc9232ae2c7e, type: 3}
   - {fileID: 6851121995934249654, guid: 966307fd5b071e84f9d8821370df8fbd, type: 3}
   startDelay: 1
-  spawnInterval: 3
+  spawnInterval: 10
 --- !u!4 &1717120344
 Transform:
   m_ObjectHideFlags: 0
@@ -1003,7 +1003,7 @@ MonoBehaviour:
   - {fileID: 4449318815860771608, guid: 8782b65d38e996745a42fc9232ae2c7e, type: 3}
   - {fileID: 6851121995934249654, guid: 966307fd5b071e84f9d8821370df8fbd, type: 3}
   startDelay: 2
-  spawnInterval: 1.5
+  spawnInterval: 5
 --- !u!4 &1923008973
 Transform:
   m_ObjectHideFlags: 0
